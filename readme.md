@@ -11,5 +11,4 @@ I will be using this readme as a log of how this website is being built. This sh
 
 ## Development Log _(newest on top)_
 
-* 17-July-2021: created git pages repo, added "under construction" banner and a favicon (trying to keep it pretty).
-
+* 17-July-2021: created git pages repo, added "under construction" banner and a favicon (trying to keep it pretty). Also added a footer with a link to my GitHub profile and some styling.
