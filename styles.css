@@ -1,0 +1,27 @@
+    footer {
+        width: 100%;
+        height: 10%;
+        margin: 3% auto 3% auto;
+    }
+    
+    footer p {
+        font-family: 'Anton', Courier, monospace;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    footer a {
+        text-decoration: none;
+        color: black;
+        font-family: 'Anton', Courier, monospace;
+    }
+    
+    footer img {
+        height: 3%;
+        width: 3%;
+    }
+    
+    #underConstruction {
+        display: block;
+        margin: 5% auto 0 auto;
+    }
