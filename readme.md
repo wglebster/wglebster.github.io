@@ -8,7 +8,3 @@ I already have a few projects in mind. I will be working on these after completi
 I will be using this readme as a log of how this website is being built. This should provide a nice insight into the agile development process - from an empty GitHub repo :construction_worker: > into an MVP :thumbsup:> then into a magical Unicorn :unicorn:
 
 ***
-
-## Development Log _(newest on top)_
-
-* 17-July-2021: created git pages repo, added "under construction" banner and a favicon (trying to keep it pretty). Also added a footer with a link to my GitHub profile and some styling.
